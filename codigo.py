@@ -1,4 +1,4 @@
-nombre = 'Chobi dragon' 
+nombre = 'Jesus' 
 apellido = 'Gomez'
 
 saludo = 'hola '+nombre+' '+apellido + " como estas ?" 
